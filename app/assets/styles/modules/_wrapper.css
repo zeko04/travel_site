@@ -10,6 +10,10 @@
         max-width: 970px;
     }
 
+    &--nerow {
+        max-width: 470px;;
+    }
+
     
     &--b-margin {
         margin-bottom: 1rem;
@@ -27,7 +31,7 @@
             padding-left: 18px;
             padding-right: 18px;
         }
-    }
+    } 
 
     &--no-padding-until-large {
         padding-right: 0;
